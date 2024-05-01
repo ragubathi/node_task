@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "n(u4vQ5NLSDa2",
+    "database": "node_task",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "n(u4vQ5NLSDa2",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "n(u4vQ5NLSDa2",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
