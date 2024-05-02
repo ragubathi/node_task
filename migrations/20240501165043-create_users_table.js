@@ -49,7 +49,7 @@ module.exports = {
         allowNull: false,
       },
       category_id: {
-        type: Sequelize.TEXT,
+        type: Sequelize.INTEGER,
         allowNull: false,
       },
       createdAt: {
